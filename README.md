@@ -17,4 +17,6 @@ delete(index i): i번째 노드의 데이터를 삭제.
 
 ### [구현 결과 이미지]
 
+![8결과](https://github.com/user-attachments/assets/10d1b467-7cf0-4c56-ab7d-9f9e6b4bfd1c)
+
 ---
